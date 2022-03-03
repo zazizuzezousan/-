@@ -1,0 +1,37 @@
+body{
+    position: relative;
+    text-align: center;
+    height: 90vh;
+}
+h1{
+    font-size: 3rem;
+}
+#display{
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    width: 100%;
+    font-size: 2rem;
+}
+#result{
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    width: 100%;
+    font-size: 2rem;
+}
+button{
+    position: absolute;
+    bottom: 0%;
+    width: 30vw;
+    height: 10vw;
+    border-radius: 5vw;
+}
+#one{
+    left: 10%;
+    background-color: red;
+}
+#two{
+    right: 10%;
+    background-color: blue;
+}
